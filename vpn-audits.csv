@@ -1,0 +1,25 @@
+provider,published_audits,auditors,jurisdiction,sources_named_on
+NordVPN,6,"PwC, Deloitte",Panama,https://vpnfin.com/nordvpn-review/
+Surfshark,2,Deloitte,Netherlands (9 Eyes),https://vpnfin.com/surfshark-review/
+ExpressVPN,3,KPMG,"British Virgin Islands, Kape-owned",https://vpnfin.com/expressvpn-review/
+CyberGhost,3,Deloitte,"Romania, Kape-owned",https://vpnfin.com/cyberghost-review/
+PureVPN,4,KPMG,"BVI, operated from Pakistan",https://vpnfin.com/purevpn-review/
+IPVanish,2,"Leviathan, Schellman","United States (Five Eyes), Ziff Davis-owned",https://vpnfin.com/ipvanish-review/
+Windscribe,1,"Packetlabs, production infrastructure","Canada (Five Eyes); Greek case dismissed, no data to give",https://vpnfin.com/windscribe-review/
+Proton VPN,5,Securitum,"Switzerland, moving infrastructure to EU",https://vpnfin.com/proton-vpn-review/
+Private Internet Access,3,Deloitte,"United States (Five Eyes), Kape-owned",https://vpnfin.com/private-internet-access-review/
+Mullvad,10+,"Cure53, Assured AB",Sweden (14 Eyes),https://vpnfin.com/mullvad-review/
+TunnelBear,Annual since 2017,Cure53,"Canada (Five Eyes), US parent",https://vpnfin.com/tunnelbear-review/
+Norton VPN,2,VerSprite,United States (Five Eyes),https://vpnfin.com/norton-vpn-review/
+Hotspot Shield,0,"protocol audited, policy not",United States (Five Eyes),https://vpnfin.com/hotspot-shield-review/
+AirVPN,0,none — the client is open source instead,Italy (14 Eyes),https://vpnfin.com/airvpn-review/
+IVPN,"8, annual since inception",Cure53,Gibraltar (status disputed),https://vpnfin.com/ivpn-review/
+Hide.me,"1 modern, in 2024","Securitum, though one source names Altius IT",Malaysia (outside the alliances),https://vpnfin.com/hide-me-review/
+PrivadoVPN,0,none in six years of operation,"Iceland (moved from Switzerland, 2026)",https://vpnfin.com/privadovpn-review/
+TorGuard,0,none; settled a lawsuit without disclosing records,United States (Five Eyes),https://vpnfin.com/torguard-review/
+FastestVPN,"1, in 2023",Altius IT,Cayman Islands (outside the alliances),https://vpnfin.com/fastestvpn-review/
+StrongVPN,0,none in over two decades,"United States (Five Eyes), Ziff Davis-owned",https://vpnfin.com/strongvpn-review/
+VyprVPN,"1, in 2018","Leviathan Security, before the 2023 sale","United States (Five Eyes), Certida-owned since 2023",https://vpnfin.com/vyprvpn-review/
+PrivateVPN,0,none; support says there is nothing to audit,"Sweden (14 Eyes), ownership disputed",https://vpnfin.com/privatevpn-review/
+ZoogVPN,0,none; support describes one as planned,"Greece (outside the alliances), run from Ukraine",https://vpnfin.com/zoogvpn-review/
+Malwarebytes Privacy VPN,"1, in 2026","X41 D-Sec, white-box over two months","United States (Five Eyes), runs AzireVPN infrastructure",https://vpnfin.com/malwarebytes-vpn-review/
